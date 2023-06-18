@@ -24,7 +24,7 @@ nav ul li a:hover {
 }
 
 .banner {
-  background: url(../../imagens/banner.jpeg) 27% center no-repeat;
+  background: url(../imagens/banner.jpeg) 27% center no-repeat;
   min-height: 350px;
   background-size: cover;
   display: flex;
@@ -166,7 +166,7 @@ footer i {
 }
 #motivos .texto h3 {
   font-size: 2rem;
-  font-weith: 400;
+  font-weight: 400;
   color: #025159;
   text-align: center;
   padding: 3rem 0 1rem 0;
